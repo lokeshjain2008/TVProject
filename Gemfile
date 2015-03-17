@@ -32,21 +32,55 @@ gem 'bcrypt', '~> 3.1.7'
 # Use unicorn as the app server
 gem 'unicorn'
 
-gem :test,:development do 
+#Added by me for the rails and use them 
+gem 'bootstrap-sass'
+gem 'simple_form'
+gem 'slim-rails'
+gem 'typhoeus' #For http requests and more
+gem 'nokogiri' #For web scrapping
+gem 'kaminari' #For pagination
+gem 'friendly_id'
 
-	gem 'bullet'
-	gem 'annotate'
+#List of other useful gems 
+
+gem 'cancancan'
+gem 'devise'
+gem 'authlogic'
+gem 'omniauth'
+gem 'active_merchant'
+gem 'spree'
+gem 'active_admin'
+gem 'paperclip' # for file upload on amazon and other -- +Rmagic for images
+gem 'apartment' #Multitenancy for Rails and ActiveRecord
+gem 'sidekiq'
+gem 'koala' # Facebook api
+
+
+group :test,:development do 
+	# debugging
 	gem 'pry-rails'
-	gem 'rails-panel'
 	gem 'binding_of_caller'
-	gem 'meta_request'
-	gem 'lol_dba'
+	gem 'meta_request' # This is needed for the `Rails panel`
+	#testing
+	gem 'factory_girl_rails'
 	gem 'rspec-rails'
-	gem 'guard-rspec'
+	gem 'guard-rspec', require: false
+	gem 'parallel_tests'
 	gem 'spork'
-	gem 'cucumber' 
+	gem 'faker'
+	gem 'shoulda-matchers' # testing for the Model validations and associtions
+	# gem 'cucumber'
 end
 
+group :development do 
+	# gem 'guard-livereload' # for the live reload of the browser https://github.com/guard/guard-livereload
+	#to create layout here
+	gem 'rails_layout'
+	#database reloated
+	gem 'bullet'
+	gem 'annotate'
+	gem 'lol_dba'
+end
 
 
 # Use Capistrano for deployment
@@ -54,7 +88,7 @@ gem 'capistrano-rails', group: :development
 
 # Use debugger
 # gem 'debugger', group: [:development, :test]
-=beging 
+=begin 
 Try to make one useful
 http://www.tvnewz.me
 http://www.desitvbox.me
