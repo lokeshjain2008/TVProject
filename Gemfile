@@ -1,6 +1,5 @@
 source 'https://rubygems.org'
 
-
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '4.2'
 # Use sqlite3 as the database for Active Record
@@ -42,7 +41,7 @@ gem 'kaminari' #For pagination
 gem 'friendly_id'
 
 #List of other useful gems 
-
+=begin
 gem 'cancancan'
 gem 'devise'
 gem 'authlogic'
@@ -54,7 +53,7 @@ gem 'paperclip' # for file upload on amazon and other -- +Rmagic for images
 gem 'apartment' #Multitenancy for Rails and ActiveRecord
 gem 'sidekiq'
 gem 'koala' # Facebook api
-
+=end
 
 group :test,:development do 
 	# debugging
@@ -92,7 +91,12 @@ gem 'capistrano-rails', group: :development
 Try to make one useful
 http://www.tvnewz.me
 http://www.desitvbox.me
+http://www.tellycolors.com/	
+http://www.desifive.com/
 
-
+Websites for the data 
+http://www.playwire.com/
+http://www.dailymotion.com
+http://youtube.com
 
 =end

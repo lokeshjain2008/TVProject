@@ -1,0 +1,1398 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"di",
+				"div"
+			],
+			[
+				"dis",
+				"disqus_shortname"
+			],
+			[
+				"site",
+				"sitemap"
+			],
+			[
+				"includ",
+				"include"
+			],
+			[
+				"mer",
+				"member"
+			],
+			[
+				"lokesh",
+				"lokesh"
+			],
+			[
+				"po",
+				"pop_session"
+			],
+			[
+				"row",
+				"row_index"
+			],
+			[
+				"pr",
+				"pry"
+			],
+			[
+				"subn",
+				"submit_tag  (function)"
+			],
+			[
+				"conte",
+				"content"
+			],
+			[
+				"text",
+				"text_field"
+			],
+			[
+				"fiels",
+				"fields_for"
+			],
+			[
+				"contet",
+				"contents"
+			],
+			[
+				"conten",
+				"contents"
+			],
+			[
+				"cone",
+				"content"
+			],
+			[
+				"content",
+				"contents"
+			],
+			[
+				"post",
+				"post_content"
+			],
+			[
+				"come",
+				"comment"
+			],
+			[
+				"comm",
+				"comment"
+			],
+			[
+				"error",
+				"errors"
+			],
+			[
+				"sub",
+				"subjects"
+			],
+			[
+				"__",
+				"__LINE__"
+			],
+			[
+				"in",
+				"info"
+			],
+			[
+				"resume",
+				"resume"
+			],
+			[
+				"resu",
+				"resume"
+			],
+			[
+				"resume_",
+				"resume_file_name"
+			],
+			[
+				"has",
+				"has_attached_file"
+			],
+			[
+				"ab",
+				"abuse"
+			],
+			[
+				"ste",
+				"students"
+			],
+			[
+				"comment",
+				"comment"
+			],
+			[
+				"base",
+				"Base64"
+			],
+			[
+				"enco",
+				"encode64"
+			],
+			[
+				"enc",
+				"encoded"
+			],
+			[
+				"commen",
+				"comment"
+			],
+			[
+				"post_co",
+				"post_comments_path"
+			],
+			[
+				"nest",
+				"nested_form"
+			],
+			[
+				"allow",
+				"allow_destroy"
+			],
+			[
+				"acc",
+				"accepts_nested_attributes_for"
+			],
+			[
+				"st",
+				"student"
+			],
+			[
+				"link",
+				"link_to_remove"
+			],
+			[
+				"fields",
+				"fields_for"
+			],
+			[
+				"chil",
+				"children"
+			],
+			[
+				"abuse",
+				"abuse"
+			],
+			[
+				"abu",
+				"abusable"
+			],
+			[
+				"name",
+				"name"
+			],
+			[
+				"LO",
+				"LOKESH"
+			],
+			[
+				"eager",
+				"eager_load"
+			],
+			[
+				"pot_",
+				"post_status"
+			],
+			[
+				"comme",
+				"comment"
+			],
+			[
+				"com",
+				"comment"
+			],
+			[
+				"co",
+				"comment"
+			],
+			[
+				"pro",
+				"product"
+			],
+			[
+				"resou",
+				"resources"
+			],
+			[
+				"p",
+				"patfh	path_from_here( .. )"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "Gemfile",
+			"settings":
+			{
+				"buffer_size": 2730,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Procfile",
+			"settings":
+			{
+				"buffer_size": 30,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "config/database.yml",
+			"settings":
+			{
+				"buffer_size": 575,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"mark",
+				"Set Syntax: Markdown Extended"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"quick",
+				"Quick File Creator: Create file"
+			],
+			[
+				"latest",
+				"Rails Latest Migration: Open latest Rails migration"
+			],
+			[
+				"form",
+				"Format Code"
+			],
+			[
+				"q",
+				"Quick File Creator: Create file"
+			],
+			[
+				"lates",
+				"Rails Latest Migration: Open latest Rails migration"
+			],
+			[
+				"late",
+				"Rails Latest Migration: Open latest Rails migration"
+			],
+			[
+				"coffee",
+				"Coffee: Display JavaScript"
+			],
+			[
+				"coffe",
+				"Coffee: Display JavaScript"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"part",
+				"Rails Partial: Create Partial from Text"
+			],
+			[
+				"qui",
+				"Quick File Creator: Create file"
+			],
+			[
+				"forma",
+				"Format: Ruby"
+			],
+			[
+				"partial",
+				"Rails Partial: Create Partial from Text"
+			],
+			[
+				"newfil",
+				"File: New View into File"
+			],
+			[
+				"format",
+				"Format: Ruby"
+			],
+			[
+				"git",
+				"Git: Diff Tool All"
+			],
+			[
+				"",
+				"Convert Case: Swap Case"
+			],
+			[
+				"Snippet: ",
+				"Snippet: when …"
+			]
+		],
+		"width": 593.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/ljain/Documents/lokeshjain2008.github.io/_drafts/lamdba-fat-arrow-javascript.md",
+		"/Users/ljain/Documents/lokeshjain2008.github.io/.gitignore",
+		"/Users/ljain/lokeshjain2008.github.io/_posts/2015-02-08-welcome-to-jekyll.markdown",
+		"/Users/ljain/.bash_profile",
+		"/Users/ljain/lokeshjain2008.github.io/_posts/2015-02-15-welcome-anish.md",
+		"/Users/ljain/Documents/demo.all/config/application.rb",
+		"/Users/ljain/Documents/demo.all/config/routes.rb",
+		"/Users/ljain/Documents/demo.all/app/models/user.rb",
+		"/Users/ljain/Documents/demo.all/app/models/micropost.rb",
+		"/Users/ljain/Documents/depot/Gemfile",
+		"/Users/ljain/Documents/rails_test/app/controllers/show_controller.rb",
+		"/Users/ljain/Documents/rails_test/public/uploads/SampleData.csv",
+		"/Users/ljain/Documents/rails_test/app/controllers/shows_controller.rb",
+		"/Users/ljain/Documents/rails_test/Gemfile",
+		"/Users/ljain/Documents/rails_test/config/environments/production.rb",
+		"/Users/ljain/Documents/rails_test/config/environments/development.rb",
+		"/Users/ljain/Documents/rails_test/app/views/posts/show.json.jbuilder",
+		"/Users/ljain/Documents/rails_test/config/application.rb",
+		"/Users/ljain/Documents/rails_test/app/views/posts/_comment_fields.html.erb",
+		"/Users/ljain/Documents/rails_test/config/routes.rb",
+		"/Users/ljain/Documents/rails_test/app/views/posts/new.html.erb",
+		"/Users/ljain/Documents/rails_test/app/models/post.rb",
+		"/Users/ljain/Documents/rails_test/config/secrets.yml",
+		"/Users/ljain/Documents/rails_test/l_test.rb",
+		"/Users/ljain/Documents/rails_test/true,default:0",
+		"/Users/ljain/Documents/rails_test/app/controllers/posts_controller.rb",
+		"/Users/ljain/Documents/rails_test/app/views/posts/index.html.erb",
+		"/Users/ljain/Documents/rails_test/app/views/posts/show.html.erb",
+		"/Users/ljain/Documents/rails_test/app/views/comments/_comment_ajax.html.erb",
+		"/Users/ljain/Documents/rails_test/app/views/comments/_comment.html.erb",
+		"/Users/ljain/Documents/rails_test/app/views/posts/_form.html.erb",
+		"/Users/ljain/Documents/rails_test/app/views/comments/_form.html.erb",
+		"/Users/ljain/Documents/rails_test/app/assets/javascripts/comments.js.coffee",
+		"/Users/ljain/Documents/rails_test/app/views/comments/index.html.erb",
+		"/Users/ljain/Documents/rails_test/app/views/comments/create.js.erb",
+		"/Users/ljain/Documents/rails_test/app/views/comments/new.html.erb",
+		"/Users/ljain/Documents/rails_test/app/controllers/students_controller.rb",
+		"/Users/ljain/Documents/rails_test/app/models/comment.rb",
+		"/Users/ljain/Documents/rails_test/app/controllers/comments_controller.rb",
+		"/Users/ljain/Documents/rails_test/app/views/comments/_comment_ajax.html",
+		"/Users/ljain/Documents/rails_test/app/models/profile.rb",
+		"/Users/ljain/Documents/rails_test/app/assets/javascripts/application.js",
+		"/Users/ljain/Documents/rails_test/app/views/layouts/application.html.erb",
+		"/Users/ljain/Documents/rails_test/app/views/students/_form.html.erb",
+		"/Users/ljain/Documents/rails_test/app/models/test1.rb",
+		"/Users/ljain/Documents/rails_test/app/views/students/index.html.erb",
+		"/Users/ljain/Documents/rails_test/app/models/student.rb",
+		"/Users/ljain/Documents/rails_test/config/database.yml",
+		"/Users/ljain/Documents/rails_test/app/controllers/test1s_controller.rb",
+		"/Users/ljain/Documents/rails_test/db/migrate/20140616061837_remove_types_from_shops.rb",
+		"/Users/ljain/Documents/rails_test/db/migrate/20140616082839_rename_clumn_type_for_shop.rb",
+		"/Users/ljain/Documents/rails_test/db/migrate/20140709145150_remove_avatar_from_friends.rb",
+		"/Users/ljain/Documents/rails_test/db/migrate/20140716174047_change_gender_from_test1.rb",
+		"/Users/ljain/Documents/rails_test/db/migrate/20140801200419_create_join_table_teacher_student.rb",
+		"/Users/ljain/Documents/rails_test/db/migrate/20140802063610_create_resumes.rb",
+		"/Users/ljain/Documents/rails_test/public/favicon.ico",
+		"/Users/ljain/Documents/rails_test/db/seeds.rb",
+		"/Users/ljain/Documents/rails_test/app/views/resumes/show.html.erb",
+		"/Users/ljain/Documents/rails_test/app/views/resumes/index.html.erb",
+		"/Users/ljain/Documents/rails_test/app/views/resumes/_form.html.erb",
+		"/Users/ljain/Documents/rails_test/app/controllers/friends_controller.rb",
+		"/Users/ljain/Documents/rails_test/app/models/resume.rb",
+		"/Users/ljain/Documents/rails_test/app/controllers/resumes_controller.rb",
+		"/Users/ljain/Documents/rails_test/app/models/friend.rb",
+		"/Users/ljain/Documents/rails_test/app/views/friends/index.html.erb",
+		"/Users/ljain/Documents/rails_test/app/models/teacher.rb",
+		"/Users/ljain/Documents/rails_test/app/views/students/new.html.erb",
+		"/Users/ljain/Documents/rails_test/test/mailers/previews/user_mailer_preview.rb",
+		"/Users/ljain/Documents/rails_test/app/mailers/user_mailer.rb",
+		"/Users/ljain/Documents/rails_test/app/views/user_mailer/welcome_email.html.erb",
+		"/Users/ljain/Documents/rails_test/test/mailers/user_mailer_test.rb",
+		"/Users/ljain/Documents/rails_test/app/controllers/urls_controller.rb",
+		"/Users/ljain/Documents/rails_test/app/views/user_mailer/welcome_email.text.erb",
+		"/Users/ljain/Documents/rails_test/app/controllers/user_mailers_controller.rb",
+		"/Users/ljain/Documents/rails_test/db/migrate/20140720131213_create_admin_posts.rb",
+		"/Users/ljain/Documents/rails_test/app/views/heros/index.html.erb",
+		"/Users/ljain/Documents/rails_test/app/views/cards/go.js.coffee",
+		"/Users/ljain/Documents/rails_test/app/views/cards/go.html.erb",
+		"/Users/ljain/Documents/rails_test/app/controllers/heros_controller.rb",
+		"/Users/ljain/Documents/rails_test/app/controllers/cards_controller.rb",
+		"/Users/ljain/Documents/rails_test/app/views/cards/get.html.erb",
+		"/Users/ljain/Documents/rails_test/app/controllers/application_controller.rb",
+		"/Users/ljain/Documents/rails_test/app/views/profiles/index.html.erb",
+		"/Users/ljain/Documents/rails_test/app/controllers/profiles_controller.rb",
+		"/Users/ljain/Documents/rails_test/app/views/comments/show.html.erb",
+		"/Users/ljain/Documents/rails_test/app/views/comments/edit.html.erb",
+		"/Users/ljain/Documents/rails_test/app/views/profiles/_subregion_select.html.erb",
+		"/Users/ljain/Documents/rails_test/test/fixtures/profiles.yml",
+		"/Users/ljain/Documents/rails_test/app/views/profiles/_form.html.erb",
+		"/Users/ljain/Documents/rails_test/app/assets/stylesheets/framework_and_overrides.css.scss",
+		"/Users/ljain/Documents/rails_test/public/javascripts/nested_form.js",
+		"/Users/ljain/Documents/rails_test/app/views/teachers/new.html.erb",
+		"/Users/ljain/Documents/rails_test/app/controllers/teachers_controller.rb",
+		"/Users/ljain/Documents/rails_test/app/assets/stylesheets/scaffolds.css.scss",
+		"/Users/ljain/Documents/rails_test/db/migrate/20140721035912_create_abuses.rb",
+		"/Users/ljain/Documents/rails_test/app/models/abuse.rb",
+		"/Users/ljain/Documents/rails_test/db/migrate/20140721035324_create_abuses.rb",
+		"/Users/ljain/Documents/rails_test/db/migrate/20140721035052_create_abuses.rb",
+		"/Users/ljain/Documents/rails_test/app/assets/javascripts/profiles.js.coffee",
+		"/Users/ljain/Documents/rails_test/db/migrate/20140717203700_add_paper_clicp.rb",
+		"/Users/ljain/Documents/rails_test/db/migrate/20140716172608_create_test1s.rb",
+		"/Users/ljain/Library/Application Support/Sublime Text 2/Packages/CoffeeCompile/Keymaps/Default (OSX).sublime-keymap",
+		"/Users/ljain/Documents/rails_test/db/migrate/20140716173254_change_gender_to_test1.rb",
+		"/Users/ljain/Documents/rails_test/app/views/comments/destroy.js.coffee",
+		"/Users/ljain/Library/Application Support/Sublime Text 2/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/ljain/Documents/rails_test/config/initializers/simple_form.rb",
+		"/Users/ljain/Documents/rails_test/app/assets/stylesheets/application.css.scss",
+		"/Users/ljain/Documents/rails_test/config/initializers/kaminari_config.rb",
+		"/Users/ljain/Documents/rails_test/app/views/posts/_comment.html.erb",
+		"/Users/ljain/Documents/rails_test/Rails Related Files: Nothing found...",
+		"/Users/ljain/Documents/rails_test/app/assets/stylesheets/application.css",
+		"/Users/ljain/Documents/rails_test/app/views/friends/_form.html.erb",
+		"/Users/ljain/Documents/rails_test/app/views/friends/show.html.erb",
+		"/Users/ljain/Library/Application Support/Sublime Text 2/Packages/Rails Related Files/Default (OSX).sublime-keymap",
+		"/Users/ljain/Documents/rails_test/app/views/friends/new.html.erb",
+		"/Users/ljain/Documents/rails_test/app/views/friends/edit.html.erb",
+		"/Users/ljain/Documents/rails_test/config/locales/en.yml",
+		"/Users/ljain/Documents/rails_test/db/migrate/20140709144926_remove.rb",
+		"/Users/ljain/Documents/rails_test/db/migrate/20140709145435_add_paper_clip_to_friends.rb",
+		"/Users/ljain/Documents/rails_test/app/models/author.rb",
+		"/Users/ljain/Documents/rails_test/app/views/posts/_post.html.erb",
+		"/Users/ljain/Documents/rails_test/app/views/posts/destroy.js.coffee",
+		"/Users/ljain/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/ljain/Documents/rails_test/config/initializers/constants.rb",
+		"/Users/ljain/Documents/rails_test/tmp/cache/assets/development/sprockets/041482b1dcb07ffb2abd409be1f459c9",
+		"/Users/ljain/Documents/rails_test/app/views/posts/hello.html.erb",
+		"/Users/ljain/Documents/rails_test/app/controllers/layouts_controller.rb",
+		"/Users/ljain/Documents/rails_test/app/views/posts/edit.html.erb"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"-*.erb,/Users/ljain/Documents/c4ed/app/views/",
+			"-*.txt,/Users/ljain/Documents/c4ed/app/views/"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"k",
+			"receiver",
+			".area.",
+			"test",
+			". ",
+			"time",
+			"text_field_tag",
+			">\n",
+			"post_content",
+			"comment_params",
+			", ",
+			"binding",
+			"biniding",
+			"rake db:",
+			"zoho",
+			"'([A-Z]{2})'\\s=>",
+			";\">",
+			"\"))\n",
+			"user",
+			"attachments",
+			"logo2",
+			"inpu",
+			"posts",
+			"nested_simple_form",
+			"@",
+			"post",
+			"label_field",
+			"female",
+			"} ",
+			"k",
+			"}  "
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"\\1:"
+		],
+		"reverse": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "Gemfile",
+					"settings":
+					{
+						"buffer_size": 2730,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								30,
+								30
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"auto_complete": false,
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/Ruby/Ruby.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "Procfile",
+					"settings":
+					{
+						"buffer_size": 30,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								30,
+								30
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "config/database.yml",
+					"settings":
+					{
+						"buffer_size": 575,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								161,
+								161
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/YAML/YAML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 37.0
+	},
+	"input":
+	{
+		"height": 37.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.coffeecompile_output":
+	{
+		"height": 136.0
+	},
+	"output.exec":
+	{
+		"height": 142.0
+	},
+	"output.git":
+	{
+		"height": 136.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 136.0
+	},
+	"replace":
+	{
+		"height": 70.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"ge",
+				"Gemfile"
+			],
+			[
+				"g",
+				"Gemfile"
+			],
+			[
+				"_lokesh",
+				"_plugins/lokesh_test.rb"
+			],
+			[
+				"_",
+				"_config.yml"
+			],
+			[
+				"_re",
+				"app/views/restaurants/_restaurant.html.erb"
+			],
+			[
+				"mi",
+				"app/models/micropost.rb"
+			],
+			[
+				"user",
+				"app/models/user.rb"
+			],
+			[
+				"",
+				"config/routes.rb"
+			],
+			[
+				"gem",
+				"Gemfile"
+			],
+			[
+				"applica",
+				"config/application.rb"
+			],
+			[
+				"show",
+				"app/controllers/show_controller.rb"
+			],
+			[
+				"rou",
+				"config/routes.rb"
+			],
+			[
+				"posts",
+				"app/controllers/posts_controller.rb"
+			],
+			[
+				"applic",
+				"config/application.rb"
+			],
+			[
+				"routes",
+				"config/routes.rb"
+			],
+			[
+				"post",
+				"app/controllers/posts_controller.rb"
+			],
+			[
+				"comment",
+				"app/models/comment.rb"
+			],
+			[
+				"app",
+				"app/assets/javascripts/application.js"
+			],
+			[
+				"comments",
+				"app/controllers/comments_controller.rb"
+			],
+			[
+				"appli",
+				"app/views/layouts/application.html.erb"
+			],
+			[
+				"profi",
+				"app/models/profile.rb"
+			],
+			[
+				"test1",
+				"app/models/test1.rb"
+			],
+			[
+				"studen",
+				"app/models/student.rb"
+			],
+			[
+				"20140802063610",
+				"db/migrate/20140802063610_create_resumes.rb"
+			],
+			[
+				"20140801200419",
+				"db/migrate/20140801200419_create_join_table_teacher_student.rb"
+			],
+			[
+				"20140716174047",
+				"db/migrate/20140716174047_change_gender_from_test1.rb"
+			],
+			[
+				"20140709145150",
+				"db/migrate/20140709145150_remove_avatar_from_friends.rb"
+			],
+			[
+				"20140616082839",
+				"db/migrate/20140616082839_rename_clumn_type_for_shop.rb"
+			],
+			[
+				"data",
+				"config/database.yml"
+			],
+			[
+				"deve",
+				"config/environments/development.rb"
+			],
+			[
+				"resum",
+				"app/controllers/resumes_controller.rb"
+			],
+			[
+				"teacher",
+				"app/models/teacher.rb"
+			],
+			[
+				"tea",
+				"app/models/teacher.rb"
+			],
+			[
+				"welcome",
+				"app/views/user_mailer/welcome_email.html.erb"
+			],
+			[
+				"devel",
+				"config/environments/development.rb"
+			],
+			[
+				"users",
+				"test/mailers/user_mailer_test.rb"
+			],
+			[
+				"userma",
+				"app/mailers/user_mailer.rb"
+			],
+			[
+				"heros",
+				"app/controllers/heros_controller.rb"
+			],
+			[
+				"pos",
+				"app/models/post.rb"
+			],
+			[
+				"hero",
+				"app/controllers/heros_controller.rb"
+			],
+			[
+				"route",
+				"config/routes.rb"
+			],
+			[
+				"cards",
+				"app/controllers/cards_controller.rb"
+			],
+			[
+				"application",
+				"app/controllers/application_controller.rb"
+			],
+			[
+				"stu",
+				"app/models/student.rb"
+			],
+			[
+				"profile",
+				"app/controllers/profiles_controller.rb"
+			],
+			[
+				"_comm",
+				"app/views/comments/_comment.html.erb"
+			],
+			[
+				"subre",
+				"app/views/profiles/_subregion_select.html.erb"
+			],
+			[
+				"prof",
+				"app/controllers/profiles_controller.rb"
+			],
+			[
+				"profiles",
+				"test/fixtures/profiles.yml"
+			],
+			[
+				"fa",
+				"app/assets/stylesheets/framework_and_overrides.css.scss"
+			],
+			[
+				"nested",
+				"public/javascripts/nested_form.js"
+			],
+			[
+				"application.h",
+				"app/views/layouts/application.html.erb"
+			],
+			[
+				"abuse",
+				"app/models/abuse.rb"
+			],
+			[
+				"sub",
+				"app/views/profiles/_subregion_select.html.erb"
+			],
+			[
+				"develop",
+				"config/environments/development.rb"
+			],
+			[
+				"comm",
+				"app/controllers/comments_controller.rb"
+			],
+			[
+				"application.cs",
+				"app/assets/stylesheets/application.css"
+			],
+			[
+				"application.css",
+				"app/assets/stylesheets/application.css"
+			],
+			[
+				"application.js",
+				"app/assets/javascripts/application.js"
+			],
+			[
+				"appl",
+				"config/application.rb"
+			],
+			[
+				"rout",
+				"config/routes.rb"
+			],
+			[
+				"views/app",
+				"app/views/layouts/application.html.erb"
+			],
+			[
+				"aut",
+				"doc/api/classes/ActiveSupport/Autoload.html"
+			],
+			[
+				"controllers/post",
+				"app/controllers/posts_controller.rb"
+			],
+			[
+				"views/po",
+				"app/views/posts/index.html.erb"
+			],
+			[
+				"sho",
+				"app/models/shop.rb"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/Users/ljain/Documents/lokeshjain2008.github.io/jekyll-blog.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 232.0,
+	"status_bar_visible": true
+}
