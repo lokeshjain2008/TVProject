@@ -1,1 +1,1 @@
-web: puma -c config/unicorn.rb
+web: unicorn -c config/unicorn.rb
